@@ -1,0 +1,34 @@
+
+ticket_id,ticket_text,category
+1,I was charged twice for my subscription,Billing
+2,I need a refund for my payment,Billing
+3,My invoice shows an incorrect amount,Billing
+4,Payment failed but money was deducted,Billing
+5,Please cancel my monthly subscription,Billing
+6,I cannot connect to the application,Technical Support
+7,The app keeps crashing when I open it,Technical Support
+8,My screen is showing an unexpected error,Technical Support
+9,The website is loading very slowly,Technical Support
+10,I am unable to upload my files,Technical Support
+11,I forgot my account password,Account Issues
+12,Please help me change my registered email,Account Issues
+13,My account has been locked,Account Issues
+14,I cannot log into my account,Account Issues
+15,I want to update my profile information,Account Issues
+16,My package has not arrived yet,Delivery
+17,The order is delayed,Delivery
+18,I received the wrong product,Delivery
+19,Please provide my shipment tracking details,Delivery
+20,My parcel arrived damaged,Delivery
+21,I was billed for a service I never purchased,Billing
+22,My credit card payment was declined,Billing
+23,The application freezes after login,Technical Support
+24,The software is not responding,Technical Support
+25,I want to reset my login credentials,Account Issues
+26,Someone accessed my account without permission,Account Issues
+27,My delivery address needs to be changed,Delivery
+28,The courier has not delivered my order,Delivery
+29,I was charged an unexpected fee,Billing
+30,The app displays a blank screen,Technical Support
+31,I cannot access my profile,Account Issues
+32,My order tracking status is not updating,Delivery
